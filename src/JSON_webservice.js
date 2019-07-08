@@ -37,7 +37,7 @@ var JSON_RESPONSE = {
                         "elementType": "linkButton",
                         "title": "clear",
                         "link": {
-                            "external": "https://roosevelt-test.modolabs.net/freshmen_sophomores_juniors_and_seniors/student_organizations/",
+                            "external": "Paste your web app's base URL here",
                             "targetNewWindow": false
                         },
                         "actionType": "emphasized"
