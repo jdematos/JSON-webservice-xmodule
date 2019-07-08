@@ -47,7 +47,7 @@ What you will need:
     <p align="center">
      <img src ="Images/On%20Google%20Sheet/Step%208_GoogleSheet.jpg" height="400">
    </p>
-*  Step 9: Copy and paste the current web app URL, you'll need this when we jump over to the modo labs platform. Before we do this, click on "lastest code" and make sure everything is working correctly.
+*  Step 9: Copy the current web app URL, you'll need this when we jump over to the modo labs platform. Before we do this, click on "lastest code" and make sure everything is working correctly.
     <p align="center">
      <img src ="Images/On%20Google%20Sheet/Step%209_GoogleSheet.png" height="400">
    </p>
@@ -80,7 +80,7 @@ What you will need:
 Congratulations! after following all of the steps above, you should end up with a fully functioning searchable list.
 
 ## Demo
-Here's how ours look:
+Here's how it looks:
 <p align="center">
  <img src ="Images/On%20Modo's%20platform/Result_1.png"  height = "640">
 </p>
