@@ -2,7 +2,7 @@
 
 This is prototype of a searchable list of Roosevelt University's student organizations for the university's mobile application. I created a JSON-based web service meant to be used with Modo labs Xmodule, which allows you to customize in-app content.
 
-An important specification for this project was to create something easily maintainable by non-techinical people. My solution to this was to create a google sheet where all the sutdent org data would live, and a google script that would use this data to create JSON which declares how its data should be displayed in the university's mobile application through xmodule.
+An important specification for this project was to create something easily maintainable by non-techinical people. My solution to this was to create a google sheet where all the student org data would live, and a google script that would use this data to create JSON which declares how its data should be displayed in the university's mobile application through xmodule.
 
 This project was created for the web design and development department at Roosevelt University, however, I decided to share it so other institutions who also use Modo's mobile app platform can fork this project and modify it to meet their needs and have an easier time taking their mobile strategy to the next level.
 
@@ -85,7 +85,7 @@ Here's how ours look:
  <img src ="Images/On%20Modo's%20platform/Result_1.png"  height = "640">
 </p>
 <p align="center">
- <img src ="Images/On%20Modo's%20platform/Result_2.png" height = "640">
+ <img src ="Images/On%20Modo's%20platform/newResult_2.png" height = "640">
 </p>
 
 Try it out for yourself:
