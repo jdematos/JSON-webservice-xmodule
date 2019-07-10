@@ -98,6 +98,10 @@ https://roosevelt-test.modolabs.net/freshmen_sophomores_juniors_and_seniors/stud
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+## Contact
+
+Feel free to ask any questions by emailing me at: reachdematos@outlook.com
+
 ## Acknowledgements
 
 A special thanks to:
