@@ -1,10 +1,10 @@
 # JSON-webservice-xmodule
 
-This is prototype of a searchable list of Roosevelt University's student organizations for the university's mobile application. I created a JSON-based web service meant to be used with Modo labs Xmodule, which allows you to customize in-app content.
+This is a prototype of a searchable list of Roosevelt University's student organizations for the university's mobile application. I created a JSON-based web service meant to be used with Modo labs Xmodule, which allows you to display customized in-app content.
 
-An important specification for this project was to create something easily maintainable by non-techinical people. My solution to this was to create a google sheet where all the student org data would live, and a google script that would use this data to create JSON which declares how its data should be displayed in the university's mobile application through xmodule.
+An important specification for this project was to create something easily maintainable by non-techinical people. My solution to this was to create a google sheets where all the student org data would live, and a google script that would use this data to create JSON which declares how its data should be displayed in the university's mobile application through xmodule.
 
-This project was created for the web design and development department at Roosevelt University, however, I decided to share it so other institutions who also use Modo's mobile app platform can fork this project and modify it to meet their needs and have an easier time taking their mobile strategy to the next level.
+This project was created for the web design and development department at Roosevelt University, however, I decided to share it so other institutions who also use Modo's mobile app platform can copy and modify this project to meet their needs and have an easier time taking their mobile strategy to the next level.
 
 ### Prerequisites
 
@@ -13,9 +13,9 @@ What you will need:
 - Google Account
 - Modo Labs platform 
 
-### What to do on Google:
+### What to do on Google sheets:
 
-* Step 1: Navigate to Google sheet (you'll need to be signed into a google account)
+* Step 1: Navigate to Google sheets (you'll need to be signed into a google account)
    <p align="center">
    <img src ="Images/On%20Google%20Sheet/Step%201_GoogleSheet.jpg" width="800">
     </p>
@@ -80,7 +80,7 @@ What you will need:
 Congratulations! after following all of the steps above, you should end up with a fully functioning searchable list.
 
 ## Demo
-Here's how it looks:
+Here's our version:
 <p align="center">
  <img src ="Images/On%20Modo's%20platform/Result_1.png"  height = "640">
 </p>
@@ -110,4 +110,4 @@ A special thanks to:
 
 * My co-workers at the Roosevelt University's web design and development department, Greg Chartrau, who helped me with CSS, Eugene Choi, who helped me with the foreground post requirements.
 
-* The Modo Labs support staff, for assiting me in making this project a reality.
+* The Modo Labs support staff, for assisting me in making this project a reality.
